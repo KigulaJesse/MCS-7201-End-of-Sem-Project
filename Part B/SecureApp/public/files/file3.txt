@@ -1,0 +1,2 @@
+This is help file three.
+A path traversal attempt like ../../etc/passwd is rejected.

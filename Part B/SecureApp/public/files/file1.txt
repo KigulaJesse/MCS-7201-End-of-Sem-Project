@@ -1,0 +1,2 @@
+This is help file one.
+The file viewer only serves files from its whitelist.

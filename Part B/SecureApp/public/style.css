@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 30px; color: #222; }
+h2 { color: #1f3864; }
+.error { color: #b00020; font-weight: bold; }
+pre { background: #f4f4f4; padding: 10px; }
